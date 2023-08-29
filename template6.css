@@ -1,0 +1,27 @@
+.h1{
+    color: white;
+    margin-left: 4pc;
+}
+
+.h2{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.nav-link{
+    color: white;
+}
+
+.box1{
+    height: 450px;
+    background-color: rgb(28, 235, 235);
+    margin-top: 100px;
+}
+
+.box2{
+    height: 450px;
+    width: 50%;
+    background-color: white;
+    margin-left: 420px;
+    margin-top: -300px;
+}
